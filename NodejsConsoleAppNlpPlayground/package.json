@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-console-app-nlp-playground",
+  "version": "0.0.0",
+  "description": "NodejsConsoleAppNlpPlayground",
+  "main": "app.js",
+  "author": {
+    "name": "Hintee"
+  },
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "franc": "^3.1.0",
+    "nlp-toolkit": "^0.2.6",
+    "request": "^2.81.0",
+    "retext": "^5.0.0",
+    "retext-latin": "^2.0.0",
+    "retext-sentiment": "^4.0.0",
+    "unist-util-inspect": "^4.1.0"
+  }
+}
